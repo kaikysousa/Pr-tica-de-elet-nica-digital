@@ -1,0 +1,22 @@
+# Quartus II generated files
+db/
+incremental_db/
+output_files/*.sof
+output_files/*.pof
+output_files/*.jdi
+output_files/*.done
+simulation/modelsim/
+
+# Backup files
+*.bak
+*.qws
+
+# Waveform files (podem ser grandes)
+*.vcd
+*.wlf
+
+# Component libraries (arquivos grandes)
+components/
+
+# Work library compilation files
+work-obj93.cf
